@@ -12,3 +12,7 @@
 ## Updated Figure regarding baseline performance under modified aggregation homophily
 ![](fig_modified_agg_homophily.png)
 
+## Revised Theorem 1 and its proof
+![](Theorem_1.png)
+![](proof_1.png)
+![](proof_2.png)
